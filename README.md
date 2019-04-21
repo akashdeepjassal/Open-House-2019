@@ -6,3 +6,5 @@
 - [x] Object Detection Using Yolo
 - [x] Audio Feedback Using Google TTS
 - [x] Audio Feedback using pyttsx
+- [x] Object Detection using Tensorflow Object Detection API
+- [x] Deploy on Raspberry Pi 
